@@ -1,0 +1,15 @@
+# simulator and Vivado output: never commit these
+xsim.dir/
+vivado_proj/
+.Xil/
+*.log
+*.jou
+*.pb
+*.wdb
+*.str
+*.vcd
+sim
+*.vvp
+*_sim
+# Word lock files while report.docx is open
+~$*
